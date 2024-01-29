@@ -8,7 +8,7 @@ Este programa realiza o cálculo da situação de cada aluno com base na média 
 
 Além disso, o programa considera a situação "Reprovado por Falta" se o número de faltas ultrapassar 25% do total de aulas, independentemente da média. Para os casos em que a situação é "Exame Final", é necessário calcular a "Nota para Aprovação Final" (naf) de cada aluno usando a seguinte fórmula:
 
-\[ 5 \leq \frac{m + naf}{2} \]
+5 <= (m + naf)/2
 
 O resultado final é arredondado para o próximo número inteiro (arredondamento para cima, se necessário). Os registros das atividades são exibidos por meio de linhas de logs para acompanhamento do processo.
 
