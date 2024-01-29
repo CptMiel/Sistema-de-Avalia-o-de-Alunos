@@ -15,4 +15,4 @@ O resultado final é arredondado para o próximo número inteiro (arredondamento
 ## Instruções de Uso
 
 Acessar o site: 
-Caso seja necessária alteração nas planilhas acessar pelo site na logo do Google Sheets ![Texto Alternativo](https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg)
+Caso seja necessária alteração nas planilhas acessar pelo site na logo do Google Sheets ![GoogleSheets](https://upload.wikimedia.org/wikipedia/commons/3/30/Google_Sheets_logo_%282014-2020%29.svg)
