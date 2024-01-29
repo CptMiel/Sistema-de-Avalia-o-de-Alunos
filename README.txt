@@ -14,5 +14,5 @@ O resultado final é arredondado para o próximo número inteiro (arredondamento
 
 ## Instruções de Uso
 
-Acessar o site: <a href=“https://tourmaline-selkie-9427de.netlify.app/“>Sistema de Avaliação de Alunos</a>
+Acessar o site: https://tourmaline-selkie-9427de.netlify.app/
 Caso seja necessária alteração nas planilhas acessar pelo site na logo do Google Sheets
